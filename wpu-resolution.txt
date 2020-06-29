@@ -1,0 +1,7 @@
+WPU RESOLUTION
+
+- LEARNING HTML, CSS, and JavaScript
+- LEARNING JQuery
+- LEARNING BootStrap
+- LEARNING PHP
+- LEARNING CodeIgniter
