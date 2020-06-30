@@ -1,2 +1,0 @@
-This repository is created as the first step to learn GitHub and Git .
-Let's learn information technology together .
