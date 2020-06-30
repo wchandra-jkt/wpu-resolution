@@ -3,6 +3,8 @@ RENCANA KONTEN WPU
 - JavaScript
 *ES6
 *JavaScript Framework
+^ Angular
+^ React
 ^ Vue
 ^ React
 - Struktur Data Dasar
@@ -10,4 +12,5 @@ RENCANA KONTEN WPU
 ^Laravel
 - Interview
 - Vlog
+- Algorithms
 - Phyton
