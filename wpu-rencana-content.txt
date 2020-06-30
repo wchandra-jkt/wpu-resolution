@@ -5,8 +5,12 @@ RENCANA KONTEN WPU
 *JavaScript Framework
 ^ Angular
 ^ React
-- Fundamental Data Structure
+^ Vue
+^ React
+- Struktur Data Dasar
 - PHP Frameworks
+^Laravel
 - Interview
 - Vlog
 - Algorithms
+- Phyton
